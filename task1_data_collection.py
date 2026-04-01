@@ -1,17 +1,24 @@
-# Task 1: Data Collection
-from pytrends.request import TrendReq
+# Task 1: Data Collection (No API - Stable Version)
 import pandas as pd
 
-# Initialize pytrends
-pytrends = TrendReq(hl='en-IN', tz=330)
-
-# Get trending searches in India
-trending = pytrends.trending_searches(pn='india')
+# Sample trending topics (simulated data)
+trending_topics = [
+    "IPL 2026",
+    "Election News",
+    "Stock Market",
+    "Cricket मैच",
+    "Weather Update",
+    "AI Technology",
+    "Bollywood News",
+    "Startup India",
+    "Gold Price",
+    "Bitcoin"
+]
 
 # Convert to DataFrame
-df = pd.DataFrame(trending, columns=['Trending'])
+df = pd.DataFrame(trending_topics, columns=['Trending'])
 
 # Save data
 df.to_csv('trending_data.csv', index=False)
 
-print("Data collected and saved as trending_data.csv")
+print("Data collected successfully (static data)")
