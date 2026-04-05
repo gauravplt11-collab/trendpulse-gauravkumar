@@ -1,0 +1,97 @@
+post_id,title,url,score,by,time,num_comments,category,score_category,engagement
+47647455,Talk like caveman,https://github.com/JuliusBrussee/caveman,79,tosh,1775379378,55,technology,medium,134
+47646843,Lisette a little language inspired by Rust that compiles to Go,https://lisette.run/,88,jspdown,1775372239,41,technology,medium,129
+47640728,Show HN: A game where you build a GPU,https://jaso1024.com/mvidia/,778,Jaso1024,1775321154,160,technology,high,938
+47644406,German implementation of eIDAS will require an Apple/Google account to function,https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/,314,DyslexicAtheist,1775343464,283,technology,high,597
+47595695,OpenScreen is an open-source alternative to Screen Studio,https://github.com/siddharthvaddem/openscreen,315,jskopek,1775007106,55,technology,high,370
+47645432,Introduction to Computer Music (2009) [pdf],https://composerprogrammer.com/introductiontocomputermusic.pdf,166,luu,1775354069,53,technology,high,219
+47607408,Scientists Figured Out How Eels Reproduce (2022),https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/,36,thunderbong,1775082834,0,technology,low,36
+47640875,"LLM Wiki – example of an ""idea file""",https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f,212,tamnd,1775321865,66,technology,high,278
+47646472,Aegis – open-source FPGA silicon,https://github.com/MidstallSoftware/aegis,39,rosscomputerguy,1775368204,4,technology,low,43
+47598835,Rubysyn: Clarifying Ruby's Syntax and Semantics,https://github.com/squadette/rubysyn/blob/master/README.md,53,petalmind,1775037258,5,technology,medium,58
+47587089,"Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",https://zml.ai/posts/zml-smi/,49,steeve,1774963793,7,technology,low,56
+47642569,How many products does Microsoft have named 'Copilot'?,https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html,662,gpi,1775331583,317,technology,high,979
+47613118,Show HN: I built a small app for FSI German Course,https://detawk.com/,38,syedmsawaid,1775130241,13,technology,low,51
+47646504,Show HN: OsintRadar – Curated directory for osint tools,https://osintradar.com/,13,lexalizer,1775368702,1,technology,low,14
+47644864,"AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop,311,crcastle,1775348035,93,technology,high,404
+47645025,"Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",https://contrapunk.com/,75,waveywaves,1775349618,31,technology,medium,106
+47639303,"Show HN: I made open source, zero power PCB hackathon badges",https://github.com/KaiPereira/Overglade-Badges,114,kaipereira,1775312421,11,technology,medium,125
+47639779,"Show HN: sllm – Split a GPU node with other developers, unlimited tokens",https://sllm.cloud,164,jrandolf,1775315938,79,technology,high,243
+47646566,"Unverified: What Practitioners Post About OCR, Agents, and Tables",https://idp-software.com/news/idp-accuracy-reckoning-2026/,11,chelm,1775369550,1,technology,low,12
+47639291,The Indie Internet Index – submit your favorite sites,https://iii.social,154,freshman_dev,1775312286,29,technology,high,183
+47645305,Demonstrating Real Time AV2 Decoding on Consumer Laptops,http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/,33,breve,1775352748,6,technology,low,39
+47638810,Components of a Coding Agent,https://magazine.sebastianraschka.com/p/components-of-a-coding-agent,243,MindGods,1775308593,78,technology,high,321
+47614532,Ruckus: Racket for iOS,https://ruckus.defn.io/,134,nsm,1775138052,12,technology,medium,146
+47646363,Modern Generic SVGA driver for Windows 3.1,https://github.com/PluMGMK/vbesvga.drv,47,userbinator,1775366921,11,technology,low,58
+47642601,Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown,https://static.laszlokorte.de/escher/,92,laszlokorte,1775331834,13,technology,medium,105
+47604887,Electrical transformer manufacturing is throttling the electrified future,https://www.bloomberg.com/features/2025-bottlenecks-transformers/,91,toomuchtodo,1775069268,83,technology,medium,174
+47640380,Apple approves driver that lets Nvidia eGPUs work with Arm Macs,https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs,439,naves,1775319370,197,technology,high,636
+47644566,"Advice to young people, the lies I tell myself (2024)",https://jxnl.co/writing/2024/06/01/advice-to-young-people/,119,mooreds,1775344734,34,technology,medium,153
+47637757,Embarrassingly simple self-distillation improves code generation,https://arxiv.org/abs/2604.01193,604,Anon84,1775298381,182,technology,high,786
+47639567,Show HN: TurboQuant-WASM – Google's vector quantization in the browser,https://github.com/teamchong/turboquant-wasm,154,teamchong,1775314396,6,technology,high,160
+47638075,"The CMS is dead, long live the CMS",https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms,142,taubek,1775301870,88,technology,medium,230
+47591367,Breaking Enigma with Index of Coincidence on a Commodore 64,https://imapenguin.com/2026/03/breaking-enigma-with-index-of-coincidence-on-a-commodore-64/,43,saganus,1774980977,4,technology,low,47
+47646871,Dynamics of (Not) Being Perceived: Grief and Relief After Leaving Social Media,https://networkcultures.org/thedigitalgutmensch/2026/04/02/dynamics-of-not-being-perceived-the-grief-relief-after-leaving-social-media/,16,glovink,1775372505,1,technology,low,17
+47631118,Artemis II crew take “spectacular” image of Earth,https://www.bbc.com/news/articles/ce8jzr423p9o,1039,andsoitis,1775244902,356,technology,high,1395
+47641141,IBM 3270 Information Display System: Color and Programmed Symbols (1979) [pdf],https://bitsavers.org/pdf/ibm/3278/GA33-3056-0_3270_Information_Display_System_Color_and_Programmed_Symbols_3278_3279_3287_Sep1979.pdf,47,hggh,1775323239,12,technology,low,59
+47611993,VR Realizes the Cyberspace Metaphor,https://yadin.com/notes/vr-disrupts/,14,dryadin,1775121847,11,technology,low,25
+47644808,The machines are fine. I'm worried about us,https://ergosphere.blog/posts/the-machines-are-fine/,22,Plasmoid,1775347487,2,technology,low,24
+47644726,"Power-washing, pool-cleaning and mowing – playing games about mundane jobs",https://www.bbc.com/news/articles/cj60r2kdnw1o,13,andsoitis,1775346513,1,technology,low,14
+47636435,Emotion concepts and their function in a large language model,https://www.anthropic.com/research/emotion-concepts-function,175,dnw,1775284225,170,technology,high,345
+47645235,Brain scans reveal how to enters a psychedelic-like trance without drugs,https://www.psypost.org/brain-scans-reveal-how-a-woman-voluntarily-enters-a-psychedelic-like-trance-without-drugs/,55,ingenika,1775351931,13,technology,medium,68
+47633855,Claude Code Found a Linux Vulnerability Hidden for 23 Years,https://mtlynch.io/claude-code-found-linux-vulnerability/,396,eichin,1775260011,248,technology,high,644
+47639524,"Author of ""Careless People"" banned from saying anything negative about Meta",https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf,800,macleginn,1775314106,517,technology,high,1317
+47641255,Plague Ships (2020),https://www.afloat.com.au/feature/plague-ships/,47,bryanrasmussen,1775324001,10,technology,low,57
+47639727,"When legal sports betting surges, so do Americans' financial problems",https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy,199,pseudolus,1775315646,132,technology,high,331
+47637287,Some Unusual Trees,https://thoughts.wyounas.com/p/some-unusual-trees,278,simplegeek,1775293459,82,technology,high,360
+47616361,Google releases Gemma 4 open models,https://deepmind.google/models/gemma/gemma-4/,1776,jeffmcjunkin,1775146254,463,technology,high,2239
+47645817,How Pope Leo is pushing back on divine justification of war,https://www.cnn.com/2026/04/04/middleeast/pope-leo-iran-war-analysis-latam-intl,35,1659447091,1775358976,22,technology,low,57
+47644667,Nvim-treesitter (13K+ Stars) is Archived,https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627,131,RohanAdwankar,1775345984,51,technology,medium,182
+47645168,Isseven,https://isseven.app/,94,philipreasa,1775351119,54,technology,medium,148
+47641464,Scientists observe an immune signaling complex forming inside cells,https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research,110,ohjeez,1775325175,7,technology,medium,117
+47610590,The East India Company in Japan,https://www.historytoday.com/archive/history-matters/east-india-company-japan,10,Thevet,1775110501,2,technology,low,12
+47645468,Writing Lisp is AI resistant and I'm sad,https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/,69,djha-skin,1775354491,71,technology,medium,140
+47641615,Sopwith – 1984 Game (2000),http://www.sopwith.org/,93,elvis70,1775325984,41,technology,medium,134
+47604698,Functional programming accelerates agentic feature development,https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai,49,cyrusradfar,1775068325,22,technology,low,71
+47628608,OpenClaw privilege escalation vulnerability,https://nvd.nist.gov/vuln/detail/CVE-2026-33579,504,kykeonaut,1775233292,249,technology,high,753
+47645037,Shooting down ideas is not a skill,https://scottlawsonbc.com/post/shooting-down-ideas,141,zdw,1775349762,147,technology,medium,288
+47629433,iNaturalist,https://www.inaturalist.org/,522,bookofjoe,1775236940,131,technology,high,653
+47629382,Getting Claude to QA its own work,https://www.skyvern.com/blog/getting-claude-to-qa-its-own-work/,17,suchintan,1775236718,0,technology,low,17
+47629903,Why are we still using Markdown?,https://bgslabs.org/blog/why-are-we-using-markdown/,211,veqq,1775239390,280,technology,high,491
+47625952,Show HN: I built a frontpage for personal blogs,https://text.blogosphere.app/,757,ramkarthikk,1775219625,190,technology,high,947
+47640775,Why the most valuable things you know are things you cannot say,https://deadneurons.substack.com/p/why-the-most-valuable-things-you,150,nr378,1775321380,50,technology,high,200
+47616242,Decisions that eroded trust in Azure – by a former Azure Core engineer,https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion,1247,axelriet,1775145627,632,technology,high,1879
+47597366,The most-disliked people in the publishing industry,https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing,92,Caiero,1775023452,64,technology,medium,156
+47633116,The house is a work of art: Frank Lloyd Wright,https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition,111,midnightfish,1775254938,63,technology,medium,174
+47644934,"Delve claiming that whistleblower was part of a ""targeted cyberattack""",https://delve.co/blog/delve-sets-the-record-straight-on-anonymous-attacks,5,rrvsh,1775348706,2,technology,low,7
+47601194,"The Cathedral, the Bazaar, and the Winchester Mystery House",https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html,181,dbreunig,1775052814,63,technology,high,244
+47621792,Post Mortem: axios NPM supply chain compromise,https://github.com/axios/axios/issues/10636,279,JeanMeche,1775174419,131,technology,high,410
+47645256,Families Can Now Eat Some Fish from Hudson River for First Time in 50 Years,https://www.health.ny.gov/press/releases/2026/2026-04-01_advice_for_eating_fish.htm,21,geox,1775352208,6,technology,low,27
+47633157,Fake Fans,https://www.wordsfromeliza.com/p/fake-fans,152,performative,1775255198,60,technology,high,212
+47616157,Software never had a soul,https://www.jmduke.com/posts/software-never-had-a-soul.html,18,firloop,1775145225,16,technology,low,34
+47624645,Show HN: Apfel – The free AI already on your Mac,https://apfel.franzai.com,718,franze,1775207734,146,technology,high,864
+47630893,Age verification on Systemd and Flatpak,https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/,142,londonanon,1775243848,127,technology,medium,269
+47634690,Delve removed from Y Combinator,https://www.ycombinator.com/companies/delve,481,carabiner,1775266622,293,technology,high,774
+47643656,The Oxygen Apocalpyse: how bacteria used a spin diode to wipe out ancient life,https://keiran-rowell.github.io/oxygen/2026-04-02-the-oxygen-apocalypse/,21,KR_compchem,1775338300,4,technology,low,25
+47639976,German men 18-45 need military permit for extended stays abroad,https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677,372,L_226,1775317150,657,technology,high,1029
+47642275,"Netflix must refund customers for years of price hikes, Italian court rules",https://arstechnica.com/gadgets/2026/04/netflix-ordered-to-refund-subscribers-up-to-e500-for-unlawful-price-hikes/,58,xbmcuser,1775329933,5,technology,medium,63
+47641788,Iranian missile blitz takes down AWS data centers in Bahrain and Dubai,https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones,169,lschueller,1775327035,146,technology,high,315
+47633131,"Run Linux containers on Android, no root required",https://github.com/ExTV/Podroid,212,politelemon,1775255035,82,technology,high,294
+47624804,Category Theory Illustrated – Types,https://abuseofnotation.github.io/category-theory-illustrated/06_type/,108,boris_m,1775209781,19,technology,medium,127
+47618223,We replaced RAG with a virtual filesystem for our AI documentation assistant,https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant,394,denssumesh,1775154269,148,technology,high,542
+47614956,Notes from from Butterick's Practical Typography,https://adamadam.blog/2026/04/01/my-notes-from-buttericks-practical-typography/,33,chilipepperhott,1775139952,2,technology,low,35
+47629485,A case study in testing with 100+ Claude agents in parallel,https://imbue.com/product/mngr_part_2/,52,thejash,1775237261,46,technology,medium,98
+47647038,An AI bot invited me to its party in Manchester. It was a pretty good night,https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell,7,mellosouls,1775374166,1,technology,low,8
+47633947,The FAA’s flight restriction for drones is an attempt to criminalize filming ICE,https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice,534,detaro,1775260592,180,technology,high,714
+47622616,The Technocracy Movement of the 1930s,https://donotresearch.substack.com/p/welcome-to-the-technocracy,166,lazydogbrownfox,1775183362,135,technology,high,301
+47601992,The smallest ELF executable (2021),https://nathanotterness.com/2021/10/tiny_elf_modernized.html,37,michelangelo,1775056344,2,technology,low,39
+47603657,Artemis II Launch Day Updates,https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/,1093,apitman,1775063491,951,technology,high,2044
+47640431,What life looks like on the most remote inhabited island,https://apps.npr.org/life-on-tristan-da-cunha/,89,brightbeige,1775319654,23,technology,medium,112
+47638147,"Show HN: Pluck – Copy any UI from any website, paste it into AI coding tools",https://www.pluck.so/,16,bring-shrubbery,1775302801,13,technology,low,29
+47646241,Applying machine learning to identify unrecognized Covid-19 deaths in the US,https://www.science.org/doi/10.1126/sciadv.aef5697,11,Pxtl,1775365234,7,technology,low,18
+47633676,"Extra usage credit for Pro, Max, and Team plans",https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans,64,angst,1775258804,60,technology,medium,124
+47597159,Improving my focus by giving up my big monitor,https://ounapuu.ee/posts/2026/04/01/focus/,182,Fudgel,1775021339,173,technology,high,355
+47645180,The secrets of black holes and the Higgs mass could be hidden in a 7D geometry,https://phys.org/news/2026-04-secrets-black-holes-higgs-mass.html,16,teleforce,1775351283,0,technology,low,16
+47601570,"Csp-toolkit – Python library to parse, analyze, and find bypasses in CSP headers",https://chs.us/2026/03/csp-toolkit/,12,bitscraper,1775054270,1,technology,low,13
+47641277,A new gene therapy is giving people born deaf the chance to hear,https://www.sciencedaily.com/releases/2026/04/260403044651.htm,49,bilsbie,1775324140,5,technology,low,54
+47591707,Bourbon waste could provide next-gen supercapacitor components,https://spectrum.ieee.org/supercapacitor-electrodes-bourbon-waste,38,prabal97,1774982691,15,technology,low,53
